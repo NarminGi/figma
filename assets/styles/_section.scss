@@ -1,0 +1,11 @@
+.text-container {
+   width: 100%;
+    .text-left{
+        flex-basis: 55%;
+        background-color: aqua;
+    }
+    .text-right{
+        flex-basis: 45%;
+        background-color: black;
+    }
+}

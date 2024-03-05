@@ -1,0 +1,19 @@
+.text-container {
+  width: 100%;
+}
+.text-container .text-left {
+  flex-basis: 55%;
+  background-color: aqua;
+}
+.text-container .text-right {
+  flex-basis: 45%;
+  background-color: black;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  box-sizing: border-box;
+  text-decoration: none;
+}/*# sourceMappingURL=main.css.map */
